@@ -1,8 +1,5 @@
 # DES-CMR
 
-<img src="getral.png" alt="model" style="zoom: 50%;" />
-
-This is the code for the IEEE TKDE Paper: [Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks](https://arxiv.org/abs/2210.05498v1).
 
 ## Usage
 
