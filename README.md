@@ -1,4 +1,4 @@
-# GETRAL
+# DES-CMR
 
 <img src="getral.png" alt="model" style="zoom: 50%;" />
 
@@ -58,20 +58,3 @@ We use Pytorch 1.9.1 and python 3.6. Other requirements are in requirements.txt.
 ```
 pip install -r requirements.txt
 ```
-
-## Citation
-
-Please cite our paper if you use the code:
-
-```
-@article{wu2022adversarial,
-  title={Adversarial Contrastive Learning for Evidence-aware Fake News Detection with Graph Neural Networks},
-  author={Wu, Junfei and Xu, Weizhi and Liu, Qiang and Wu, Shu and Wang, Liang},
-  journal={arXiv preprint arXiv:2210.05498},
-  year={2022}
-}
-```
-
-## Acknowledge
-
-The general structure of our codes inherits from the open-source codes of [MAC](https://github.com/nguyenvo09/EACL2021), we thank them for their great contribution to the research community of fake news detection.
