@@ -9,6 +9,15 @@
 * PolitiFact: http://resources.mpi-inf.mpg.de/impact/dl_cred_analysis/PolitiFact.zip
 
 
+## Download via Baidu Netdisk
+
+**File:** DES-CMR.…  
+**Link:** https://pan.baidu.com/s/1YHUyaWPgT6Dc26UQls2FSg?pwd=wt25  
+**Password:** `wt25`  
+
+Copy the link and password, then open the BaiduNetdisk App to access the file.
+
+
 You can run the commands below to train our model on Snopes Dataset.
 
 ```
